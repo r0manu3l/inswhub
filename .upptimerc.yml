@@ -3,8 +3,24 @@ owner: r0manu3l # Your GitHub organization or username, where this repository li
 repo: inswhub # The name of this repository
 
 sites:
-  - name: Business Portal
+  - name: Business Portal Dashboard
     url: https://dashboard-ish.apps.ins.inswhub.com/login
+  - name: Business Poral Backend
+    url: $BP_BACKEND
+  - name: Authorization Server
+    url: $AUTH_MANG
+  - name: Authorization Sever 2
+    url: $AUTH_TENANT
+  - name: Developer Portal
+    url: $DEV_PORTAL
+  - name: Partners Sandbox
+    url: $PARNERS_URL
+    headers:
+      - apikey: $API_KEY_SANDBOX
+  - name: Partners Production
+    url: $PARNERS_URL
+    headers:
+      - apikey: $API_KEY_PRODUCTION
  
 assignees: # Users to assign downtime issues (optional)
   - r0manu3l
@@ -14,15 +30,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /inswhub
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://media-exp2.licdn.com/dms/image/C4E0BAQHg055oYe1jWg/company-logo_200_200/0/1645650702471?e=1666224000&v=beta&t=LN12bRByKy1bX2bBmC5Qdb5k2Xtx0bPYMlNg1FhH9_k
   name: Inswhub Platform
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  introTitle: "**inswhub** Embedded Finance."
+  introMessage: Making any Company a Fintech Company
+  #navbar:
+    #- title: Status
+      #href: /
+    #- title: GitHub
+      #href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
