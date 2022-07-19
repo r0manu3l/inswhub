@@ -16,11 +16,11 @@ sites:
   - name: Partners Sandbox
     url: $PARNERS_URL
     headers:
-      - apikey: $API_KEY_SANDBOX
+      - "apikey: $API_KEY_SANDBOX"
   - name: Partners Production
     url: $PARNERS_URL
     headers:
-      - apikey: $API_KEY_PRODUCTION
+      - "apikey: $API_KEY_PRODUCTION"
  
 assignees: # Users to assign downtime issues (optional)
   - r0manu3l
