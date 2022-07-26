@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 399,
-    "timeWeek": 231,
+    "timeWeek": 210,
     "timeMonth": 231,
     "timeYear": 231,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 510,
-    "timeWeek": 249,
+    "timeWeek": 228,
     "timeMonth": 249,
     "timeYear": 249,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 414,
-    "timeWeek": 251,
+    "timeWeek": 234,
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 401,
-    "timeWeek": 240,
+    "timeWeek": 221,
     "timeMonth": 240,
     "timeYear": 240,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 341,
-    "timeWeek": 224,
+    "timeWeek": 200,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 352,
-    "timeWeek": 248,
+    "timeWeek": 229,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {}
@@ -112,17 +112,19 @@
     "url": "$PARNERS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "partners-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 98,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
-    "dailyMinutesDown": {}
+    "time": 131,
+    "timeDay": 175,
+    "timeWeek": 120,
+    "timeMonth": 131,
+    "timeYear": 131,
+    "dailyMinutesDown": {
+      "2022-07-26": 0
+    }
   }
 ]
