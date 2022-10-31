@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 236,
-    "timeDay": 315,
-    "timeWeek": 248,
-    "timeMonth": 280,
+    "timeDay": 289,
+    "timeWeek": 247,
+    "timeMonth": 279,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-10-12": 39,
@@ -21,26 +21,22 @@
     }
   },
   {
-    "name": "Business Poral Backend",
+    "name": "Business Portal Backend",
     "url": "$BP_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "business-poral-backend",
+    "slug": "business-portal-backend",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.89%",
-    "time": 236,
-    "timeDay": 291,
-    "timeWeek": 234,
-    "timeMonth": 276,
-    "timeYear": 236,
-    "dailyMinutesDown": {
-      "2022-10-12": 39,
-      "2022-09-07": 24,
-      "2022-08-05": 103
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 279,
+    "timeDay": 279,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authorization Server",
@@ -53,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 293,
+    "time": 250,
+    "timeDay": 273,
     "timeWeek": 230,
     "timeMonth": 256,
-    "timeYear": 251,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -72,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 270,
-    "timeWeek": 219,
-    "timeMonth": 281,
+    "timeDay": 260,
+    "timeWeek": 221,
+    "timeMonth": 279,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -90,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 228,
-    "timeDay": 281,
-    "timeWeek": 227,
-    "timeMonth": 272,
+    "timeDay": 261,
+    "timeWeek": 226,
+    "timeMonth": 270,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2022-09-07": 24
@@ -110,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 232,
-    "timeDay": 288,
-    "timeWeek": 243,
-    "timeMonth": 271,
+    "timeDay": 270,
+    "timeWeek": 242,
+    "timeMonth": 270,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2022-09-07": 24
@@ -130,8 +126,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 68,
-    "timeDay": 76,
-    "timeWeek": 59,
+    "timeDay": 71,
+    "timeWeek": 60,
     "timeMonth": 66,
     "timeYear": 68,
     "dailyMinutesDown": {
