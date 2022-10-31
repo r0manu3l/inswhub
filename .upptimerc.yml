@@ -30,7 +30,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /inswhub
-  logoUrl: https://media-exp2.licdn.com/dms/image/C4E0BAQHg055oYe1jWg/company-logo_200_200/0/1645650702471?e=1666224000&v=beta&t=LN12bRByKy1bX2bBmC5Qdb5k2Xtx0bPYMlNg1FhH9_k
+  logoUrl: https://inswitchpublic2.s3.amazonaws.com/inswitch_logo.png
   name: Inswhub Platform
   introTitle: "**inswhub** Embedded Finance."
   introMessage: Making any Company a Fintech Company
