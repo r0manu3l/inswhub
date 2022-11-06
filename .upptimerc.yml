@@ -21,9 +21,7 @@ sites:
     url: $PARNERS_URL
     headers:
       - "apikey: $API_KEY_PRODUCTION"
-  - name: Page Not Exist
-    url: http://notexistother.com/
- 
+  
 assignees: # Users to assign downtime issues (optional)
   - r0manu3l
   
