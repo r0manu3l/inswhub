@@ -61,19 +61,19 @@
     "url": "$AUTH_TENANT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authorization-sever-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 689,
-    "timeWeek": 628,
-    "timeMonth": 355,
-    "timeYear": 264,
+    "time": 266,
+    "timeDay": 656,
+    "timeWeek": 623,
+    "timeMonth": 362,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2023-01-11": 0
+      "2023-01-11": 13
     }
   },
   {
