@@ -45,36 +45,40 @@
     "url": "$AUTH_MANG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authorization-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 244,
-    "timeWeek": 264,
-    "timeMonth": 234,
-    "timeYear": 239,
-    "dailyMinutesDown": {}
+    "time": 275,
+    "timeDay": 5164,
+    "timeWeek": 1491,
+    "timeMonth": 541,
+    "timeYear": 275,
+    "dailyMinutesDown": {
+      "2023-04-16": 1
+    }
   },
   {
     "name": "Authorization Sever 2",
     "url": "$AUTH_TENANT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authorization-sever-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 265,
-    "timeWeek": 265,
-    "timeMonth": 212,
-    "timeYear": 252,
-    "dailyMinutesDown": {}
+    "time": 287,
+    "timeDay": 5178,
+    "timeWeek": 1493,
+    "timeMonth": 521,
+    "timeYear": 287,
+    "dailyMinutesDown": {
+      "2023-04-16": 0
+    }
   },
   {
     "name": "Developer Portal",
