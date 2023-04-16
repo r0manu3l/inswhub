@@ -27,19 +27,19 @@
     "url": "$BP_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "business-portal-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 217,
-    "timeWeek": 282,
-    "timeMonth": 252,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 240,
+    "timeDay": 184,
+    "timeWeek": 264,
+    "timeMonth": 248,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-04-16": 1
+      "2023-04-16": 12
     }
   },
   {
@@ -48,18 +48,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authorization-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 275,
     "timeDay": 5164,
     "timeWeek": 1491,
     "timeMonth": 541,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-04-16": 15
+      "2023-04-16": 28
     }
   },
   {
@@ -68,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authorization-sever-2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 287,
     "timeDay": 5178,
     "timeWeek": 1493,
     "timeMonth": 521,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-04-16": 15
+      "2023-04-16": 27
     }
   },
   {
