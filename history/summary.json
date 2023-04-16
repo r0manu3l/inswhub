@@ -27,18 +27,20 @@
     "url": "$BP_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "business-portal-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 218,
-    "timeWeek": 292,
-    "timeMonth": 253,
+    "timeDay": 217,
+    "timeWeek": 282,
+    "timeMonth": 252,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-16": 1
+    }
   },
   {
     "name": "Authorization Server",
@@ -47,9 +49,9 @@
     "slug": "authorization-server",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 5164,
@@ -57,7 +59,7 @@
     "timeMonth": 541,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-04-16": 1
+      "2023-04-16": 15
     }
   },
   {
@@ -67,9 +69,9 @@
     "slug": "authorization-sever-2",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 5178,
@@ -77,7 +79,7 @@
     "timeMonth": 521,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-04-16": 0
+      "2023-04-16": 15
     }
   },
   {
