@@ -49,10 +49,10 @@
     "url": "$AUTH_MANG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authorization-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 266,
@@ -61,6 +61,7 @@
     "timeMonth": 232,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2023-11-09": 1,
       "2023-06-21": 25,
       "2023-04-16": 139
     }
@@ -72,17 +73,17 @@
     "slug": "authorization-sever-2",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
     "time": 254,
     "timeDay": 332,
     "timeWeek": 230,
     "timeMonth": 214,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-11-09": 0,
+      "2023-11-09": 49,
       "2023-04-16": 113
     }
   },
