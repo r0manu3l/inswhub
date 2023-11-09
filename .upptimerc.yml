@@ -4,7 +4,7 @@ repo: inswhub # The name of this repository
 
 sites:
   - name: Business Portal Dashboard
-    url: https://dashboard-ish.apps.ins.inswhub.com/login
+    url: https://dashboard-ish.apps.ins.inswhub1.com/login
   - name: Business Portal Backend
     url: $BP_BACKEND
   - name: Authorization Server
