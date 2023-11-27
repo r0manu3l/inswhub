@@ -1,7 +1,7 @@
 url: $PARNERS_URL
-status: up
-code: 200
-responseTime: 401
-lastUpdated: 2023-11-26T23:15:37.693Z
+status: down
+code: 500
+responseTime: 5308
+lastUpdated: 2023-11-27T12:56:01.244Z
 startTime: 2022-07-19T05:26:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
