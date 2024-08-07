@@ -1,7 +1,7 @@
 url: $AUTH_TENANT
-status: up
-code: 200
-responseTime: 5127
-lastUpdated: 2024-08-06T23:18:22.386Z
+status: down
+code: 503
+responseTime: 5097
+lastUpdated: 2024-08-07T09:35:37.557Z
 startTime: 2022-07-19T05:26:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
