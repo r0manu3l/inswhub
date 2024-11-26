@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 386,
-    "timeWeek": 271,
-    "timeMonth": 237,
+    "timeDay": 192,
+    "timeWeek": 240,
+    "timeMonth": 233,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2024-06-12": 25
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 354,
-    "timeWeek": 256,
-    "timeMonth": 248,
-    "timeYear": 233,
+    "timeDay": 184,
+    "timeWeek": 227,
+    "timeMonth": 244,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2024-08-28": 20
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1059,
-    "timeDay": 5342,
-    "timeWeek": 1650,
-    "timeMonth": 1132,
-    "timeYear": 1294,
+    "timeDay": 111,
+    "timeWeek": 1618,
+    "timeMonth": 1128,
+    "timeYear": 1280,
     "dailyMinutesDown": {
       "2024-06-12": 25
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1127,
-    "timeDay": 351,
-    "timeWeek": 959,
-    "timeMonth": 999,
+    "timeDay": 156,
+    "timeWeek": 925,
+    "timeMonth": 993,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2024-08-28": 20
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1750,
-    "timeDay": 366,
-    "timeWeek": 3105,
-    "timeMonth": 2312,
-    "timeYear": 2211,
+    "time": 1760,
+    "timeDay": 5128,
+    "timeWeek": 3068,
+    "timeMonth": 2469,
+    "timeYear": 2225,
     "dailyMinutesDown": {}
   },
   {
@@ -109,13 +109,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1738,
-    "timeDay": 5367,
-    "timeWeek": 3820,
-    "timeMonth": 2633,
-    "timeYear": 2204,
-    "dailyMinutesDown": {
-      "2023-11-27": 27
-    }
+    "timeDay": 169,
+    "timeWeek": 3076,
+    "timeMonth": 2629,
+    "timeYear": 2190,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Partners Production",
@@ -128,10 +126,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 85,
-    "timeWeek": 59,
-    "timeMonth": 49,
+    "time": 55,
+    "timeDay": 34,
+    "timeWeek": 51,
+    "timeMonth": 48,
     "timeYear": 57,
     "dailyMinutesDown": {}
   }
