@@ -1,7 +1,7 @@
 url: $AUTH_MANG
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-22T22:00:14.804Z
+status: up
+code: 200
+responseTime: 110
+lastUpdated: 2025-02-22T22:24:10.915Z
 startTime: 2022-07-19T05:26:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
