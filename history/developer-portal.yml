@@ -1,7 +1,7 @@
 url: $DEV_PORTAL
-status: down
-code: 403
-responseTime: 5067
-lastUpdated: 2025-02-24T17:54:39.811Z
+status: up
+code: 200
+responseTime: 5101
+lastUpdated: 2025-02-24T18:28:54.900Z
 startTime: 2022-07-19T05:26:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
