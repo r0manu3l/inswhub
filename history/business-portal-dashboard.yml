@@ -1,7 +1,7 @@
 url: https://dashboard-ish.apps.ins.inswhub.com/login
-status: down
-code: 403
-responseTime: 343
-lastUpdated: 2025-03-10T14:38:20.063Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2025-03-10T14:50:47.900Z
 startTime: 2022-07-19T05:26:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
