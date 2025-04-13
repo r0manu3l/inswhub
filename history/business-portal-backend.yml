@@ -1,7 +1,7 @@
 url: $BP_BACKEND
-status: down
-code: 403
-responseTime: 310
-lastUpdated: 2025-04-13T09:40:40.236Z
+status: up
+code: 200
+responseTime: 124
+lastUpdated: 2025-04-13T09:53:08.891Z
 startTime: 2022-10-31T18:21:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
