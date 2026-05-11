@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 340,
-    "timeWeek": 240,
-    "timeMonth": 286,
+    "timeDay": 79,
+    "timeWeek": 231,
+    "timeMonth": 284,
     "timeYear": 324,
     "dailyMinutesDown": {}
   },
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 382,
-    "timeDay": 401,
-    "timeWeek": 1207,
-    "timeMonth": 536,
+    "timeDay": 164,
+    "timeWeek": 694,
+    "timeMonth": 533,
     "timeYear": 426,
-    "dailyMinutesDown": {
-      "2025-05-11": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authorization Server",
@@ -48,14 +46,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1106,
-    "timeDay": 455,
-    "timeWeek": 252,
-    "timeMonth": 441,
-    "timeYear": 593,
+    "time": 1105,
+    "timeDay": 118,
+    "timeWeek": 250,
+    "timeMonth": 439,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2025-12-29": 39,
-      "2025-05-11": 27
+      "2025-12-29": 39
     }
   },
   {
@@ -69,14 +66,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 812,
-    "timeDay": 335,
-    "timeWeek": 291,
-    "timeMonth": 322,
+    "time": 801,
+    "timeDay": 105,
+    "timeWeek": 267,
+    "timeMonth": 320,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2025-12-29": 39,
-      "2025-05-11": 27
+      "2025-12-29": 39
     }
   },
   {
@@ -88,17 +84,16 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1070,
-    "timeDay": 548,
-    "timeWeek": 314,
-    "timeMonth": 323,
-    "timeYear": 649,
+    "time": 1059,
+    "timeDay": 103,
+    "timeWeek": 316,
+    "timeMonth": 325,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2026-04-10": 60,
-      "2025-12-29": 38,
-      "2025-05-11": 27
+      "2025-12-29": 38
     }
   },
   {
@@ -113,13 +108,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1115,
-    "timeDay": 341,
+    "timeDay": 99,
     "timeWeek": 260,
-    "timeMonth": 262,
-    "timeYear": 726,
-    "dailyMinutesDown": {
-      "2025-05-11": 27
-    }
+    "timeMonth": 259,
+    "timeYear": 712,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Partners Production",
@@ -132,13 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 48,
-    "timeDay": 314,
-    "timeWeek": 106,
-    "timeMonth": 93,
+    "time": 49,
+    "timeDay": 72,
+    "timeWeek": 112,
+    "timeMonth": 95,
     "timeYear": 51,
-    "dailyMinutesDown": {
-      "2025-05-11": 27
-    }
+    "dailyMinutesDown": {}
   }
 ]
