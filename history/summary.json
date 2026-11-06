@@ -80,20 +80,21 @@
     "url": "$DEV_PORTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "developer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 407,
-    "timeDay": 224,
-    "timeWeek": 168,
-    "timeMonth": 317,
+    "timeDay": 156,
+    "timeWeek": 158,
+    "timeMonth": 310,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-12-29": 38,
-      "2026-04-10": 60
+      "2026-04-10": 60,
+      "2026-11-06": 0
     }
   },
   {
